@@ -1,0 +1,12 @@
+user_name="tatishvili"
+user_namelist=("t","a","t","i","s","h","v","i","l","i",)
+print(user_namelist[0])
+print(user_namelist[1])
+print(user_namelist[2])
+print(user_namelist[3])
+print(user_namelist[4])
+print(user_namelist[5])
+print(user_namelist[6])
+print(user_namelist[7])
+print(user_namelist[8])
+print(user_namelist[9])
